@@ -18,4 +18,7 @@ The `Toggle` class component is designed to handle toggling functionality on web
    - It triggers the `onToggle` callback function provided in the configuration, passing the trigger element, target element, and the toggle state as arguments.
 
 Overall, the `Toggle` class facilitates the toggling of elements on a web page based on user interactions, providing flexibility in how the trigger and target elements are related and toggled.
+
+
 Source - Web interaction for everyone (kyle schaeffer) on Youtube
+DEMO - https://toggle-one-target-one-trigger.netlify.app/
